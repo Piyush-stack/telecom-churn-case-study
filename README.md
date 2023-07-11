@@ -19,7 +19,7 @@ In this project, you will analyse customer-level data of a leading telecom firm,
 
  
 
-Understanding and defining churn
+## Understanding and defining churn
 There are two main models of payment in the telecom industry - postpaid (customers pay a monthly/annual bill after using the services) and prepaid (customers pay/recharge with a certain amount in advance and then use the services).
 
  
@@ -40,7 +40,7 @@ This project is based on the Indian and Southeast Asian market.
 
  
 
-Definitions of churn
+## Definitions of churn
 There are various ways to define churn, such as:
 
  
@@ -65,7 +65,7 @@ In this project, you will use the usage-based definition to define churn.
 
  
 
-High-value churn
+## High-value churn
 In the Indian and Southeast Asian markets, approximately 80% of revenue comes from the top 20% of customers (called high-value customers). Thus, if we can reduce the churn of high-value customers, we will be able to reduce significant revenue leakage.
 
  
